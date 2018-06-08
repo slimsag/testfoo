@@ -1,4 +1,4 @@
-package main
+package main // import "whoami.com/foo"
 
 import "fmt"
 
