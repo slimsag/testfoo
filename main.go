@@ -11,4 +11,13 @@ func main() {
 	}
 
 	b.PrintContents()
+
+	q := Qux{
+		Contents: []string{
+			"Spam",
+			"Green",
+		},
+	}
+
+	q.PrintContents()
 }
