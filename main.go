@@ -1,4 +1,4 @@
-package main // import "whoami.com/foo"
+package main // import "whoami.com/FOO"
 
 import "whoami.com/foo/bar"
 
