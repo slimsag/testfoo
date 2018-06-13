@@ -1,6 +1,6 @@
-package main // import "whoami.com/foo"
+package main // import "code.slimsag.com/the/repo/cmd/gofer"
 
-import "whoami.com/foo/bar"
+import "code.slimsag.com/the/repo/bar"
 
 func main() {
 	b := bar.Baz{
